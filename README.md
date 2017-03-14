@@ -1,6 +1,25 @@
 # Estratégias para familiares no incentivo ao Desenvolvimento Cognitivo de descendentes
 Estratégias para familiares no incentivo ao desenvolvimento cognitivo de crianças e adolescentes.
-Usa presentes e abordagem que incentivem criatividade e os diferentes tipos de inteligência.
+Este projeto é focado nas recomendações de presentes e abordagem das pessoas que
+tem contato direto com os jovens pra incetivar criatividade e potencialmente
+melhorar diferentes tipos de inteligência.
+
+![9 tipos de inteligência](imagens/9-types-of-intelligence-infographic.png)
+
+Alguns pontos-chave
+
+- É voltado para familiares
+  - Assume que não há conhecimento pessoal ou profissional em áreas como educação e psicologia
+- Assumem que a mãe e o pai trabalham durante a semana e que parte do dia um familiar ou babá cuidarão da criança
+- Os presentes, sempre que possível, devem ser baratos
+  - Nem todas as famílias tem dinheiro extra
+  - Isso também estimula dar presentes para parentes ou doações para terceiros
+- Estímulo a multidisciplinaridade, criatividade e conscientizar sobre abordagens que geram auto-boicote na criança
+  - _"Elogie o esforço, não a inteligência"_
+  - Mesmo que uma criança passe a ser boa em algo, sugere fortemente a família
+não reforçar isso em dentrimento forte de outras habilidades
+  - Estimulo a interação com colegas, mesmo fora da aula
+
 
 Acesse também [Matriarcado Cognitivo](https://github.com/fititnt/matriarcado-cognitivo).
 
