@@ -8,7 +8,7 @@ A frase **"os pais educam, a escola ensina"** é muito repetida, mas quem
 quem explicou para os famíliares como educar de uma forma que tenda a dar
 melhores resultados segundo **abordagens como teoria de aprendizagem, neurociência
 e até mesmo baseado em casos de sucesso**? Nikola Tesla, _o homem que inventou
-o século 20_, [atribuia sea criatividade à sua mãe, Djuka Tesla](http://www.bio-orthodoxy.com/2016/02/georgina-djuka-tesla-1822-1892-nikola.html),
+o século 20_, [atribuia sua criatividade à sua mãe, Djuka Tesla](http://www.bio-orthodoxy.com/2016/02/georgina-djuka-tesla-1822-1892-nikola.html),
 mulher que mesmo sem saber ler e escrever era criativa e, enquanto o pai do
 Nikola era um pastor de igreja, dizia que "minha mãe me ensinou a bustar toda a
 verdade na Biblia"
@@ -16,7 +16,12 @@ verdade na Biblia"
 
 ![9 tipos de inteligência](imagens/9-types-of-intelligence-infographic.png)
 
-Alguns pontos-chave
+## Alguns pontos-chave
+
+_Note que os presentes (ou estratégias de interação, como brincadeiras de
+esconde-esconde) podem usar como referência também material voltado para
+crianças com transtorno do especto autista, mas em geral podem ser dados para
+qualquer criança._
 
 - **É voltado para familiares**
   - Assume que não há conhecimento pessoal ou profissional em áreas como educação e psicologia
@@ -33,7 +38,8 @@ Alguns pontos-chave
 - **Estímulo a multidisciplinaridade, criatividade** e conscientizar sobre abordagens que geram auto-boicote na criança
   - _"Elogie o esforço, não a inteligência"_
   - Mesmo que uma criança passe a ser boa em algo, sugere fortemente a família
-não reforçar isso em dentrimento forte de outras habilidades
+não reforçar isso em dentrimento forte de outras habilidades (_Nota: essa
+hipótese deve ser revista, talvez mude; leia [Elogie esforço da criança, não inteligência](http://www.psicologiasdobrasil.com.br/elogie-o-esforco-da-crianca-nao-a-inteligencia/)_)
   - Estimulo a interação com colegas, mesmo fora da aula, em detrimento de apenas uso de computador
 
 Acesse também [Matriarcado Cognitivo](https://github.com/fititnt/matriarcado-cognitivo).
